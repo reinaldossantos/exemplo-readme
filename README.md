@@ -3,22 +3,20 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Big Game Survey é um exemplo de aplicação construída para fins de apresentação da (#sds1), evento organizado pelo SENAIMG.
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em uma pesquisa de preferência, onde os dados são coletados no app mobile, e depois são listados no app, que também apresenta um dashboard com gráficos baseados nestes dados.
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+Layout 1
+Layout 2
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
-
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+Layout 1
+Layout 1
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+Modelo Conceitual 1
 
 # Tecnologias utilizadas
 ## Back end
@@ -71,7 +69,3 @@ yarn start
 ```
 
 # Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
