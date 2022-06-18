@@ -1,5 +1,5 @@
-# Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/neliocursos/exemplo-readme/blob/main/LICENSE) 
+# Big SITE 
+[![NPM](https://img.shields.io/npm/l/react)] 
 
 # Sobre o projeto
 
@@ -69,3 +69,4 @@ yarn start
 ```
 
 # Autor
+SENAIMG
